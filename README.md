@@ -12,4 +12,5 @@ I'm a pie
 
 
 
-update: we did a word doc XD
+update: 1.0.1 we did a word doc XD
+update: 1.0.2 Word Document deleted
